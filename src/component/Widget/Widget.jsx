@@ -13,7 +13,7 @@ const Widget = ({ type }) => {
 
     //temporary
     const amount = 100;
-    const diff = 50;
+    // const diff = 50;
 
     switch (type) {
         case "user":

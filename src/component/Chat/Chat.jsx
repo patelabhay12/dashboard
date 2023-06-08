@@ -1,7 +1,7 @@
 import React from 'react';
 import './chat.scss';
-import { Line, LineChart, Legend } from 'recharts';
-import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+// import { Line, LineChart, Legend } from 'recharts';
+import { AreaChart, Area, XAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 
 const data = [

@@ -1,10 +1,10 @@
-import { Table } from '@mui/material';
+// import { Table } from '@mui/material';
 import React from 'react';
 import Chat from '../../component/Chat/Chat';
 import Featured from '../../component/featured/Featured';
 import Navbar from '../../component/Navbar/Navbar';
 import Sidebar from '../../component/SideBar/Sidebar';
-import Tables from '../../component/Table/Tables';
+// import Tables from '../../component/Table/Tables';
 import Widget from '../../component/Widget/Widget';
 import './home.scss';
 
